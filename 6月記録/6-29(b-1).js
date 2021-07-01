@@ -5,20 +5,8 @@
 //   let time = 0;
 
 //   for (let i = 0; i < m; i++) {
-//     let sTime = input[1].split(" ");
-//     let eTime = input[1].split(" ");
-//     n2 -= sTime - time;
-
-//     if (n2 < 0) {
-//       console.log("Yes");
-//     }
-//     n2 += eTime - sTime;
-//     if (n2 > n) {
-//       n2 = n;
-//     }
-//     time = eTime;
+//     if( i === )
 //   }
-//   n2 -= t - time;
 // }
 
 // main(require("fs").readFileSync("/dev/stdin", "utf8"));
